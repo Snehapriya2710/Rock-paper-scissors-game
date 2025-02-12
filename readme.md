@@ -27,4 +27,14 @@ This is an interactive Rock-Paper-Scissors game that uses a webcam to detect han
 **How to Run:**  
    - Run the script using:  
      python main.py
-   - Press `Esc` to exit.  
+   - Press `Esc` to exit.
+**Sample Output**
+![image](https://github.com/user-attachments/assets/63c19dff-6730-443c-a6e4-408128db4d46)
+
+
+![image](https://github.com/user-attachments/assets/c5299aca-d591-4b2a-9149-b2a44def7446)
+
+
+![image](https://github.com/user-attachments/assets/09e4ba06-b266-4748-b7c4-7ebb17d882f6)
+
+
