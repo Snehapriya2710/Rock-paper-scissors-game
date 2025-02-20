@@ -10,7 +10,7 @@ This is an interactive Rock-Paper-Scissors game that uses a webcam to detect han
    - Real-time hand gesture recognition using a webcam.  
    - AI opponent with random move generation.  
    - Visual interface with dynamic score tracking.  
-   - Win or lose screen when a player reaches 2 points.  
+   - Win or lose screen when a player reaches n [i.e.,2] points.  
 
 **How to Play:**  
    - Start the game by pressing the `s` key.  
